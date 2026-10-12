@@ -5,6 +5,6 @@
 
 Начинающий QA-инженер. Ручное тестирование, API, базовое тестирование безопасности.
 
-🎯 **[Портфолио проектов](https://github.com/vorobevau088-star/qa-portfolio)**
+🎯 **[Портфолио проектов]([https://github.com/vorobevau088-star/qa-portfolio](https://github.com/vorobevau088-star/qa-projects))**
 
 📬 **Контакты:** [Telegram](https://t.me/vorobushek0000) | vorobevau088@gmail.com
